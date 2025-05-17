@@ -52,7 +52,7 @@ Exemplo: [Praia de Ponta Negra](https://media.istockphoto.com/id/531165945/photo
 #### ![texto da imagem](Link da Imagem)
 
 Exemplo:
-
+\![Natal/RN](https://www.viagenscinematograficas.com.br/wp-content/uploads/2018/03/Natal-RN-O-Que-Fazer-Praias-Capa-e1664501366980.jpg) -> <br>
 ![Natal/RN](https://www.viagenscinematograficas.com.br/wp-content/uploads/2018/03/Natal-RN-O-Que-Fazer-Praias-Capa-e1664501366980.jpg)
 
 ## Códigos
@@ -102,4 +102,5 @@ Sintaxe: <br>
 <!-- Lista de Tarefas-->
 - [X] Tarefa 1
 - [ ] Tarefa 2
-- [ ] Tarefa 3 <br> [ ] ] Tarefa 4
+- [X] Tarefa 3
+- [ ]  [ ] Tarefa 4
