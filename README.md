@@ -68,7 +68,7 @@ Exemplo:
 \`\`\` Bloco de Código \`\`\`  ->  ``` Bloco de Código ```
 
 
-## CItações
+## Citações
 <!--Citações-->
 
 Sintaxe: <br>
@@ -103,4 +103,4 @@ Sintaxe: <br>
 - [X] Tarefa 1
 - [ ] Tarefa 2
 - [X] Tarefa 3
-- [ ]  [ ] Tarefa 4
+- [ ] Tarefa 4
